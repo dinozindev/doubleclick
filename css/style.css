@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+}
+
+#tester {
+    border: 1px black solid;
+    width: 400px;
+    height: 400px;
+}
